@@ -1,0 +1,12 @@
+tw,6 Tanglewood Dr
+ef,42 Edgefield Rd
+rv,10 Ridgeview Ct
+gf,Grafton Farmhouse
+wil,13 Willow St
+hs,Brownstone High School
+bf,Bleasdale Farmhouse
+sm,Sunny Meadows
+smr,Sunny Meadows Restricted
+pri,Prison
+ml,Maple Lodge Campsite
+cw,Camp Woodwind
